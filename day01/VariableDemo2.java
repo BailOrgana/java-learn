@@ -31,6 +31,11 @@ public class VariableDemo2 {
         
         System.out.println(f);
 
+        //变量在使用前必须要赋值,不要分开写
+        /*int g;
+        g=500;
+        System.out.println(g);*/
+
     }
     
 }
